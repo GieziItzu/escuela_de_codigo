@@ -3,8 +3,16 @@ Vamos a identificar los siguientes tipos de datos
 
 NUMEROS ENTEROS : 
 
+Int
+
 NUMEROS DECIMALES: 
+
+Float
 
 CARACTER : 
 
-CADENA DE CARACTERES : 
+Char
+
+CADENA DE CARACTERES :
+
+string
